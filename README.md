@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @x1muk
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Ruby on Rails
+- 🌱 I’m currently learning Ruby
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me xumxga(at)gmail.com
 
