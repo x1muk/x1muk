@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @x1muk
-- 👀 I’m interested in Ruby on Rails
-- 🌱 I’m currently learning Ruby
+- 👀 I’m interested in JavaScript
+- 🌱 I’m currently learning Css&HTML
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me xumxga(at)gmail.com
 
